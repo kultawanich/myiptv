@@ -1,3 +1,5 @@
+#EXTINF
+
 test
 test
 test
