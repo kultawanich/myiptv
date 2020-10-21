@@ -1,6 +1,0 @@
-#EXTINF
-
-test
-test
-test
-test
